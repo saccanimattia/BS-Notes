@@ -1,0 +1,111 @@
+.modal-title {
+    color: #333;
+    font-size: 24px;
+    font-weight: bold;
+    text-align: center;
+    margin-bottom: 20px;
+}
+.attivo {
+    color: white;
+}
+.dataContainers {
+    width: 70%;
+    margin: auto;
+}
+#homeDiv img {
+    max-width: 100%;
+    height: auto;
+}
+#homeDiv p {
+    font-size: 1.2em;
+}
+#homeDiv ul {
+    list-style-type: none;
+    padding: 0;
+}
+#homeDiv li {
+    font-size: 1.2em;
+    margin-bottom: 10px;
+}
+.form-control {
+    border-radius: 5px;
+    border: 1px solid #ccc;
+    padding: 10px;
+}
+.btn-primary {
+    background-color: #007bff;
+    border-color: #007bff;
+    color: #fff;
+    padding: 10px 20px;
+    font-size: 16px;
+    font-weight: bold;
+    text-transform: uppercase;
+    cursor: pointer;
+}
+.btn-primary:hover {
+    background-color: #0069d9;
+    border-color: #0062cc;
+    color: #fff;
+}
+.btn-primary:active {
+    background-color: #0062cc;
+    border-color: #005cbf;
+    color: #fff;
+}       
+.funzionalita {
+    flex: 1;
+    background-color: #fff;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    margin: 20px;
+    display: flex;
+    flex-direction: column;
+}
+h2 {
+    color: #333;
+    font-size: 1.5em;
+    margin-bottom: 15px;
+}
+.custom-upload-button {
+    padding: 8px 12px;
+    cursor: pointer;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+}
+.fileSelezionati {
+    display: flex;
+    flex-direction: column;
+    margin-top: 3%;
+    background-color: lightgray;
+    border-radius: 5px;
+
+    font-weight: bold;
+}
+#calendar {
+    width: 90%;
+    margin: 0 auto;
+}
+.container {
+    flex: 1;
+    max-width: 600px;
+    padding: 20px;
+    margin-top: 10%;
+    border-right: 2px solid #ccc;
+}
+#esplora {
+    color: #333;
+}
+.elenco {
+    list-style-type: none;
+    padding: 0;
+}
+.funzionalità {
+    margin-bottom: 10px;
+}
+.centered {
+    text-align: center;
+    
+}
